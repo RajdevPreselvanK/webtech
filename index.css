@@ -1,0 +1,23 @@
+
+body{
+    align-items: center;
+    text-align: center;
+    background-image:url('https://www.karunya.edu/sites/default/files/img/infra/webs/TOP-VIEW-LOW.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+/* Change Font Size and Color Here */
+form,table{
+    text-align: left;       
+    font-size: 24;                      /*font size*/
+    font-weight: bold;                  /*Bold font*/
+    color:white;                /*font color*/
+}
+h1 {
+color:orange;
+}
+.child {
+margin: 0 auto;
+}
+

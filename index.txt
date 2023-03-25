@@ -1,0 +1,31 @@
+<DOCTYPE! html>
+<head>
+<link rel="stylesheet" href="index.css">
+<title> Sample Web Page </title>
+</head>
+<body>
+<h1>Karunya Student Portal</h1>
+<h3>Enter your details </h3>
+<form>
+Name: 
+<input type="text" class="names" id="1234"> <br/> <br/>
+Register No: 
+<input type="text" class="names" id="1234"> <br/> <br/>
+PIN: 
+<input type="password" class="names" id="1234"> <br/> <br/>
+Department:
+<select>
+<option value="0"> ---select--- </option>
+<option value="1"> B.tech </option>
+<option value="2"> M.tech </option>
+<option value="3"> Agri </option>
+<option value="4"> BioTech </option>
+</select> <br/> <br/>
+Sex:
+<input type="radio" class="names" id="1234">MALE</input>
+<input type="radio" class="names" id="1234">FEMALE</input> <br/> <br/>
+Nationality:
+<input type="checkbox" class="names" id="1234">INDIAN</input>
+<input type="checkbox" class="names" id="1234">Other</input> <br/> <br/>
+</form>
+</body>
